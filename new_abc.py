@@ -1,7 +1,7 @@
 
 #i need to implement this
 def add(x,y):
-  return none
+  return x+y
 
 #bob need to implement this
 def mult(x,y):
