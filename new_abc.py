@@ -4,5 +4,6 @@ def add(x,y):
   return x+y
 
 #bob need to implement this
-def mult(x,y):
-  return x*y
+def multadd(x,y,z):
+  return x*y+z
+  
